@@ -1,0 +1,19 @@
+{
+  "name": "swap-univ2-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5",
+    "ts-node": "^10.8.0",
+    "typescript": "^5.0.4",
+    "yarn": "^1.22.19"
+  }
+}
